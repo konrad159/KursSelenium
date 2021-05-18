@@ -83,7 +83,7 @@ public class wypelnijformularzTest {
 
 
         // Prześlij formularz
-        //element.submit();
+        element.submit();
     }
 
     @After
