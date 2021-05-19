@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
 import org.junit.*;
 
-public class wypelnijformularzTest {
+public class WypelnijformularzTest {
 
     private WebDriver driver;
 
